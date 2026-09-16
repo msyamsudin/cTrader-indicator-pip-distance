@@ -2,6 +2,9 @@
 Indicator overlay untuk cTrader (cAlgo) yang membantu trader menentukan level **Base → SL → Entry → Min Retrace → TP** secara visual berdasarkan profile Renko tertentu.
 
 ---
+<img width="891" height="888" alt="cT_cs_1184089_XAUUSD_2026-09-16_22-17-39" src="https://github.com/user-attachments/assets/01ca1375-ed63-45f6-8d73-7fb73cd375ab" />
+
+---
 
 ## Fitur Utama
 
